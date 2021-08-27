@@ -1,0 +1,14 @@
+.btnsz{
+    width: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width :575px) {
+
+    .cr{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+}

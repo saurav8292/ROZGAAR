@@ -1,0 +1,181 @@
+
+#eikons
+{
+ font-size: 2.5em;
+ color: cornsilk;
+ margin-top: 20px;
+}
+#ecrd
+{
+    margin-top: 20px;
+    text-align: center;
+}
+.ecrcle0
+{
+    margin-left: 70px;
+    height:80px;
+    width: 90px;
+    border-radius: 100%;
+    background-color:#fabf60;
+}
+.ecrcle1
+{
+    margin-left: 70px;
+    height:80px;
+    width: 90px;
+    border-radius: 100%;
+    background-color:#3ed9b0;
+}
+.ecrcle2
+{
+    margin-left: 70px;
+    height:80px;
+    width: 90px;
+    border-radius: 100%;
+    background-color:#d121eb;
+}
+.etxt
+{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 1.3em;
+    color: white;
+    font-weight:600;
+}
+.exyz
+{
+    background-color:white;
+}
+.eone
+{
+background-color:#f6b852;
+}
+.etwo
+{
+    background-color:#28d4a5;
+}
+.ethree
+{
+    background-color:#c90ae6;
+}
+#etbl
+{
+margin-top: 10px;
+width:70%;
+background-color:white;
+}
+.enp
+{
+    
+   font-weight: 500;
+   font-size:1.5em;
+}
+#esrow
+{
+    margin-top: 60px;
+}
+.eek
+{
+    color: blue;
+}
+.edo
+{
+    color:green;
+}
+.eteen
+{
+    color:yellow;
+}
+.echar
+{
+    color: red;
+}
+.erc
+{
+    margin-left: 40px;
+}
+.edc
+{
+    float: right;
+    margin-right: 20px;
+}
+.emainss
+{
+margin-top: -50px;
+}
+
+.esaurav {
+    position: absolute;
+    height: 100%;
+    background-color: #0e1a35;
+}
+
+@media screen and (max-width: 1160px)
+{
+    #ecrd
+    {
+        margin-left: 250px;
+    }
+}
+@media screen and (max-width: 1100px)
+{
+    #ecrd
+    {
+        margin-left: 200px;
+    }
+}
+@media screen and (max-width: 900px)
+{
+    #ecrd
+    {
+        margin-left: 150px;
+    }
+    #eleftapp
+    {
+        margin-left: 150px;
+    }
+}
+@media screen and (max-width: 750px)
+{
+    #ecrd
+    {
+        margin-left: 130px;
+    }
+    #eleftapp
+    {
+        margin-left: 130px;
+    }
+}
+@media screen and (max-width: 700px)
+{
+    #ecrd
+    {
+        margin-left: 100px;
+    }
+    #eleftapp
+    {
+        margin-left: 100px;
+    }
+}
+@media screen and (max-width: 600px)
+{
+    #ecrd
+    {
+        margin-left: 70px;
+    }
+    #eleftapp
+    {
+        margin-left: 70px;
+    }
+}
+@media screen and (max-width: 500px)
+{
+    #ecrd
+    {
+        margin-left: 50px;
+    }
+    #eleftapp
+    {
+        margin-left: 50px;
+    }
+}

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
+
+h4{
+    font-family: 'Oxygen', sans-serif;
+}
+
+.mid{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px !important;
+    margin-bottom: auto;
+}
+
+.middle{
+    text-align: center;
+}
+
+.hvr:hover{
+    box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.72), 0 1px 4px 0 rgba(0, 0, 0, 0.33);
+}
+
+
+/* mobile devices */
+
+@media screen and (max-width :575px) {
+    .sz{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .sz1{
+        margin-left: 0px;
+    }
+    
+}
+
+
+

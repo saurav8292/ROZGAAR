@@ -1,0 +1,54 @@
+#apps
+{
+    color: darkblue;
+    margin-top:-100px;
+    margin-bottom:-50px;
+    font-family: serif;
+    background-color:white;
+}
+.tableTitles
+{
+    font-size: 1.5em;
+    font-weight: 600;
+    color: darkblue;
+}
+.appikons
+{
+    font-size: 1.5em;
+    margin-right: 10px;
+    color: darkblue;
+}
+.titems
+{
+    font-size: 1.4em;
+    color: darkblue;
+    font-weight: 520;
+}
+#pend
+{
+    border-radius:25px;
+    height:40px;
+}
+.first
+{
+    margin-left: 40px;
+}
+.frl
+{
+    margin-left: 20px;
+}
+.cross
+{
+font-size: 2.5em;
+cursor: pointer;
+color:lightcoral;
+font-weight: lighter;
+}
+.tick
+{
+    font-size: 2.5em;
+    cursor: pointer;
+    color:slateblue;
+    font-weight:0.2;
+    margin-right: 10px;
+}

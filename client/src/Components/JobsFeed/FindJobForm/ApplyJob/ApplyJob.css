@@ -1,0 +1,47 @@
+.xdd
+{
+    color: darkmagenta;
+}
+.xsd
+{
+    font-size: 1.7em;
+    font-weight: 500;
+    color:darkblue;
+}
+.able
+{
+    margin-left: 25px;
+}
+.matric
+{
+    font-size: 1.3em;
+    padding-top: 25px;
+    padding-right: 40px;
+}
+.mtrs
+{
+    padding-right: 98px;
+}
+.grds
+{
+    padding-right:55px;
+}
+.met
+{
+    padding-top: 20px;
+}
+@media screen and (max-width: 600px)
+{
+  .matric
+  {
+    margin-left:5px;
+  }
+  .Dob
+  {
+      margin-left: 5px;
+  }
+  .can
+  {
+      margin-left: 5px;
+  }
+}

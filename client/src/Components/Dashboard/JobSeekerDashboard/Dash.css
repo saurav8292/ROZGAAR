@@ -1,0 +1,179 @@
+
+#ikons
+{
+ font-size: 2.5em;
+ color: cornsilk;
+ margin-top: 20px;
+}
+#crd
+{
+    margin-top: 20px;
+    text-align: center;
+}
+.crcle0
+{
+    margin-left: 70px;
+    height:80px;
+    width: 90px;
+    border-radius: 100%;
+    background-color:#fabf60;
+}
+.crcle1
+{
+    margin-left: 70px;
+    height:80px;
+    width: 90px;
+    border-radius: 100%;
+    background-color:#3ed9b0;
+}
+.crcle2
+{
+    margin-left: 70px;
+    height:80px;
+    width: 90px;
+    border-radius: 100%;
+    background-color:#d121eb;
+}
+.txt
+{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 1.3em;
+    color: white;
+    font-weight:600;
+}
+.xyz
+{
+    background-color:white;
+}
+.one
+{
+background-color:#f6b852;
+}
+.two
+{
+    background-color:#28d4a5;
+}
+.three
+{
+    background-color:#c90ae6;
+}
+#tbl
+{
+margin-top: 10px;
+width:70%;
+background-color:white;
+}
+.np
+{
+    
+   font-weight: 500;
+   font-size:1.5em;
+}
+#srow
+{
+    margin-top: 60px;
+}
+.ek
+{
+    color: blue;
+}
+.do
+{
+    color:green;
+}
+.teen
+{
+    color:yellow;
+}
+.char
+{
+    color: red;
+}
+.rc
+{
+    margin-left: 40px;
+}
+.dc
+{
+    float: right;
+    margin-right: 20px;
+}
+.mainss
+{
+margin-top: -50px;
+}
+.saurav {
+    position: absolute;
+    height: 100%;
+    background-color: #0e1a35;
+}
+@media screen and (max-width: 1160px)
+{
+    #crd
+    {
+        margin-left: 250px;
+    }
+}
+@media screen and (max-width: 1100px)
+{
+    #crd
+    {
+        margin-left: 200px;
+    }
+}
+@media screen and (max-width: 900px)
+{
+    #crd
+    {
+        margin-left: 150px;
+    }
+    #leftapp
+    {
+        margin-left: 150px;
+    }
+}
+@media screen and (max-width: 750px)
+{
+    #crd
+    {
+        margin-left: 130px;
+    }
+    #leftapp
+    {
+        margin-left: 130px;
+    }
+}
+@media screen and (max-width: 700px)
+{
+    #crd
+    {
+        margin-left: 100px;
+    }
+    #leftapp
+    {
+        margin-left: 100px;
+    }
+}
+@media screen and (max-width: 600px)
+{
+    #crd
+    {
+        margin-left: 70px;
+    }
+    #leftapp
+    {
+        margin-left: 70px;
+    }
+}
+@media screen and (max-width: 500px)
+{
+    #crd
+    {
+        margin-left: 50px;
+    }
+    #leftapp
+    {
+        margin-left: 50px;
+    }
+}
